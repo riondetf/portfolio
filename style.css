@@ -40,6 +40,9 @@ body {
     z-index: 1;
   }
 
+  .div2 pre{
+    margin-top: 100px;
+  }
 
   pre{
     color: #9dfdc7;
