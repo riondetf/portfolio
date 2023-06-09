@@ -20,10 +20,6 @@ body {
     background-size: cover;
   }
 
- .relative{
-    position: relative;
-  }
-
   .cursor-tracker{
     position: fixed;
     top: 0;
@@ -44,9 +40,6 @@ body {
     z-index: 1;
   }
 
-  .div2 pre{
-    margin-top: 100px;
-  }
 
   pre{
     color: #9dfdc7;
@@ -81,6 +74,10 @@ body {
   .couleur{
     align-items: center;
 
+  }
+
+  .relative{
+    position: relative;
   }
 
   .haut{
@@ -130,6 +127,7 @@ body {
     width: 300px;
     list-style-type: none;
   }
+
 
   .projet2{
     border: 2px solid #9dfdc7;
@@ -211,9 +209,8 @@ body {
 .quisuisje{
   position: absolute;
   width: 200px;
-  left: 31.5%;
-  top: 55%;
-  
+  left: 31%;
+  top: 70%;
 }
 
 .ui-btn {
