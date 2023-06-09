@@ -20,6 +20,10 @@ body {
     background-size: cover;
   }
 
+ .relative{
+    position: relative;
+  }
+
   .cursor-tracker{
     position: fixed;
     top: 0;
